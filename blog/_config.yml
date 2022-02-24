@@ -22,7 +22,6 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "rya"
 description              : "henlo"
 url                      : "https://rya.wtf"
-baseurl                  : "/blog/"
 repository               : ryandanger/ryawtf
 domain                   : "rya.wtf"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
