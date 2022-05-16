@@ -1,8 +1,6 @@
 ---
-layout: single
-title:  "let's go lesbians, let's go"
-date:   2022-05-16 18:30:00 +0800
-categories: blog quick
+layout: post
+title: let's go lesbians, let's go
 ---
 hi again
 
