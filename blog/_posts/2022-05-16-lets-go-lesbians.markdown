@@ -6,4 +6,4 @@ hi again
 
 time for a fucking revamp 😈😈
 
-catch me in 2023 with the house and life of my dreams
+catch me in 2023 with the house and life of my dreams with my bestie 
